@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <Contacts href=".">
+    <Contact href=".">
+      <Name>Glenn Block</Name>
+      <Address>123 Any Street</Address>
+      <City>Seattle</City>
+      <State>Washington</State>
+      <Zip>98112</Zip>
+      <Email>gblock@microsoft.com</Email>
+      <Twitter User="">
+        <Tweets href="."/>
+        <DM href="."/>
+        <Mention href="."/>
+      </Twitter>
+    </Contact>
+    <Contact href=".">
+      <Name>Mike Amundsen</Name>
+      <Address>123 Any Street</Address>
+      <City>Erlanger</City>
+      <State>Kentucky</State>
+      <Zip>41018</Zip>
+      <Email>mca@mamund.com</Email>
+      <Twitter>
+        <Tweets href="."/>
+        <DM href="."/>
+        <Mention href="."/>
+      </Twitter>
+    </Contact>
+  </Contacts>
+  <Queries>
+    <Query name="query-twitter-contacts" href="."/>
+    <Query name="query-search" href=".">
+      <Name/>
+      <City/>
+      <State/>
+    </Query>
+  </Queries>
+  <Response>  
+  </Response>
+</Root>
